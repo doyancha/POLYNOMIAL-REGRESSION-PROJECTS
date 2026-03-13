@@ -167,6 +167,18 @@ If you want a specific notebook polished, converted to a script, or combined int
 
 ---
 
+# 📬 Contact
+Mir Shahadut  
+Email: sujon6901@gmail.com  
+WhatsApp: [+8801671761312](https://wa.me/8801671761312)  
+GitHub: [@mirshahadut](https://github.com/doyancha)
+
+---
+
+## 🙏 Acknowledgements
+Datasets are inspired by publicly available educational, housing, automotive and HR compensation data.  
+Thanks to the scikit‑learn and pandas communities for excellent documentation and tooling.
+
 ## License & Notes
 No license file included in this repository. If you want an explicit license (MIT, Apache-2.0, etc.), add a LICENSE file or let me know which one to include.
 
